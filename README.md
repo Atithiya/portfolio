@@ -2,6 +2,7 @@
 
 - [About me](#about-me)
 - [Skills](#skills)
+- [Training](#training)
 
 ## About me
 
@@ -14,5 +15,21 @@ Engineer role.
 
 ## Skills
 
-- Test Case
-- Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Exmtcz-MWah1MxQrFPX8lU1-vZJmzWmdLdBud1cDYcs/edit#gid=0)
+**Manual testing**
+
+- Test case for P'Beam login page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Exmtcz-MWah1MxQrFPX8lU1-vZJmzWmdLdBud1cDYcs/edit#gid=0)
+
+- Test Scenario
+
+- Test Report
+
+- Log Defect
+
+- Flowchart
+
+* SQL Database
+
+## Training
+
+- Software Testing Manual By P'Beam
+- Junior Software Developer Cohort 5 By Generation Thailand
