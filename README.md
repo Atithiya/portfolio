@@ -32,4 +32,5 @@ Engineer role.
 ## Training
 
 - Software Testing Manual By P'Beam
+  [Certificate](/file/testingCertificate.pdf)
 - Junior Software Developer Cohort 5 By Generation Thailand
