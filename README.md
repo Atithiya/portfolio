@@ -26,10 +26,10 @@ Engineer role.
 - Log Defect
 
 - Flowchart
-  1. Login & Register Flowchart, Check [the flowchart](https://drive.google.com/drive/u/0/folders/1KMdobkuc38yj-VrEbfQrm6JOZ4TWcRa5)
-  2. Grade Flowchart, Check [the flowchart](https://docs.google.com/spreadsheets/d/1Exmtcz-MWah1MxQrFPX8lU1-vZJmzWmdLdBud1cDYcs/edit#gid=0)
-  3. Income Flowchart for Purchasing a House, Check [the flowchart](https://drive.google.com/drive/u/0/folders/1KMdobkuc38yj-VrEbfQrm6JOZ4TWcRa5)
-  4. Workout Flowchart, Check [the flowchart](https://drive.google.com/drive/u/0/folders/1KMdobkuc38yj-VrEbfQrm6JOZ4TWcRa5)
+  1. Login & Register Flowchart, Check [the flowchart](https://drive.google.com/file/d/1BLYPM4F7-q9cts9ol_KU3MnfJKYXpsI7/view)
+  2. Grade Flowchart, Check [the flowchart](https://drive.google.com/file/d/1vkL17_bcC8q1lBHp-PGaRHJqRbPB9F6u/view)
+  3. Income Flowchart for Purchasing a House, Check [the flowchart](https://drive.google.com/file/d/1dp_AghBMhTLyi6me-hRoxNMEw3u0y-vI/view)
+  4. Workout Flowchart, Check [the flowchart](https://drive.google.com/file/d/1wR1UowROeZW-li7Q6rRO0E3Z52puyPl0/view)
 
 * SQL Database
 
