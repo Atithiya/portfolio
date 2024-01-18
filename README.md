@@ -26,25 +26,24 @@ Engineer role.
 - Log Defect
 
 - Flowchart
+  1. Login & Register Flowchart, Check [the flowchart](https://drive.google.com/drive/u/0/folders/1KMdobkuc38yj-VrEbfQrm6JOZ4TWcRa5)
+  2. Grade Flowchart, Check [the flowchart](https://docs.google.com/spreadsheets/d/1Exmtcz-MWah1MxQrFPX8lU1-vZJmzWmdLdBud1cDYcs/edit#gid=0)
+  3. Income Flowchart for Purchasing a House, Check [the flowchart](https://drive.google.com/drive/u/0/folders/1KMdobkuc38yj-VrEbfQrm6JOZ4TWcRa5)
+  4. Workout Flowchart, Check [the flowchart](https://drive.google.com/drive/u/0/folders/1KMdobkuc38yj-VrEbfQrm6JOZ4TWcRa5)
 
 * SQL Database
 
 **Tools**
 
 - Postman
-
 - Git
-
 - Figma
 
 **Technical Skills**
 
 - HTML
-
 - CSS / Bootstrap / TailwindCSS / DaisyUI
-
 - Javascript
-
 - ReactJS
 
 ## Training
