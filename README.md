@@ -17,7 +17,10 @@ Engineer role.
 
 **Manual testing**
 
-- Test case for P'Beam login page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Exmtcz-MWah1MxQrFPX8lU1-vZJmzWmdLdBud1cDYcs/edit#gid=0)
+- Test case
+
+  1. Test case for P'Beam login page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Exmtcz-MWah1MxQrFPX8lU1-vZJmzWmdLdBud1cDYcs/edit#gid=0)
+  2. Test case for Studen Registration Page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1k4F98jPn8zjbICog5iZ6jmYXvqGFk3lyB7n14XVKOZ0/edit#gid=0)
 
 - Test Scenario
 
