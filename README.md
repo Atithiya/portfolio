@@ -1,17 +1,23 @@
 # Portfolio
 
+Quality Assurance
+
 - [About me](#about-me)
 - [Skills](#skills)
 - [Training](#training)
+- [Courses](#courses)
 
 ## About me
 
-My name is Atithiya Inthorn. I graduated from the Generation Thailand Bootcamp, where I acquired essential
-technical and soft skills for transitioning from a two-year career in the document
-verification industry. My genuine interest in software development is supported
-by robust technical abilities. Dedicated, hardworking, and consistently eager to
-learn, I am ready to apply my skills in a challenging Software Quality Assurance
-Engineer role.
+Hello, I'm Atithiya Inthorn, a recent graduate of the Generation Thailand Bootcamp. With a solid two-year background in the document verification industry, I've successfully pivoted to software development, refining both essential technical and soft skills.
+
+My genuine passion for software development is anchored in robust technical abilities. I recently played a pivotal role in engineering a MERN Stack Workout Tracking Web Application, leveraging my expertise in HTML, CSS, JavaScript, and ReactJS. Engaging within an agile framework, I actively contributed to sprint planning, weekly scrum meetings, and retrospectives, ensuring the project's successful delivery.
+
+My proficiency in executing software testing protocols, acquired through the "Software Testing Manual by P'Beam Course," allowed me to guarantee the seamless functionality of the application. I am adept at crafting and implementing test cases and scenarios. Dedicated, hardworking, and consistently eager to learn, I am now prepared to apply my skills in a challenging Software Quality Assurance Engineer role.
+
+Throughout this project, I utilized a diverse set of technologies, including HTML, CSS, JavaScript, and ReactJS, and applied industry-standard testing methodologies and tools to ensure the application's high-quality performance.
+
+I am enthusiastic about the prospect of bringing my varied skills to a dynamic software quality assurance environment and contributing to the continued success of your team.
 
 ## Skills
 
