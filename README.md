@@ -56,3 +56,12 @@ Engineer role.
   [Certificate](/file/testingCertificate.pdf)
 - Junior Software Developer Cohort 5 By Generation Thailand
   [Certificate](/file/JSDCertificate.pdf)
+
+## Courses
+
+- Programming Foundations: Software Testing/QA (LinkedIn Learning)
+  [Certificate](https://www.linkedin.com/learning/certificates/abf9dea1c9e84158213567e36646569fc17eeab5db8e5864a83f8be6a1e5ca54)
+- Understanding Manual Testing (LinkedIn Learning)
+  [Certificate](https://www.linkedin.com/learning/certificates/8f2680df6318bd450f41d26777739b3e6fad6caed037ae2cee72049068f8bb61)
+- Essential SQL for Everyone (BorntoDev)
+  [Certificate](https://school.borntodev.com/certificate/cS1MBAgJvURF)
