@@ -30,6 +30,7 @@ I am enthusiastic about the prospect of bringing my varied skills to a dynamic s
   3. Test case for Hotel Telephone (in Thai). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1LGTuMxuu9qkscrHzpxp3N345q7-KMg7tyHYKI0bU2vw/edit#gid=738757611)
   4. Test case for Student submission (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Bq7sQLCkfWOfSQgWzZG1i4XKfi4Lfvjjy31Zl4mwsKI/edit#gid=0)
   5. Test case for Quiz program for students (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1oTiaQE0XdUUlZLUW0zHZC3CWvlJpEHJG9iEOjyY1v44/edit#gid=0)
+  6. Test case for Sign Up page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/15FPK0khDCfa7M1nA-sVyTSKoDY9LD38TWJHnBL4_t64/edit#gid=325026868)
 
 - Test Scenario
 
@@ -59,7 +60,6 @@ I am enthusiastic about the prospect of bringing my varied skills to a dynamic s
 - CSS / Bootstrap / TailwindCSS / DaisyUI
 - Javascript
 - ReactJS
-  https://keepfit-react.vercel.app/
 
 1.  Developed a workout web application using the MERN stack, collaborated with team members in a Junior Software Developer Bootcamp, and applied Scrum and Agile methodologies to this project. [Keep fit Web Application](https://keepfit-react.vercel.app/)
 
