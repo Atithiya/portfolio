@@ -26,7 +26,7 @@ I am enthusiastic about the prospect of bringing my varied skills to a dynamic s
 - Test case
 
   1. Test case for P'Beam login page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Exmtcz-MWah1MxQrFPX8lU1-vZJmzWmdLdBud1cDYcs/edit#gid=0)
-  2. Test case for Studen Registration Page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1k4F98jPn8zjbICog5iZ6jmYXvqGFk3lyB7n14XVKOZ0/edit#gid=0)
+  2. Test case for Student Registration Page (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1k4F98jPn8zjbICog5iZ6jmYXvqGFk3lyB7n14XVKOZ0/edit#gid=0)
   3. Test case for Hotel Telephone (in Thai). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1LGTuMxuu9qkscrHzpxp3N345q7-KMg7tyHYKI0bU2vw/edit#gid=738757611)
   4. Test case for Student submission (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1Bq7sQLCkfWOfSQgWzZG1i4XKfi4Lfvjjy31Zl4mwsKI/edit#gid=0)
   5. Test case for Quiz program for students (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1oTiaQE0XdUUlZLUW0zHZC3CWvlJpEHJG9iEOjyY1v44/edit#gid=0)
